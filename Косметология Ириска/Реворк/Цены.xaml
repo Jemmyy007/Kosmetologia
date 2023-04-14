@@ -1,0 +1,48 @@
+﻿<Window x:Class="Косметология.Цены"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Косметология"
+        mc:Ignorable="d"
+        Title="Цены" Height="469" Width="800" Closing="Window_Closing" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,0,-6">
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF8D9BC7" Offset="0"/>
+                <GradientStop Color="#FF303D69" Offset="0.336"/>
+
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Image Source="Source/desigh2.png" Margin="-280,0,-362,-48" OpacityMask="Black"/>
+
+        <DataGrid x:Name="priceGrid" CanUserDeleteRows="False" CanUserResizeRows="False" CanUserAddRows="False" CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="False" Margin="183,8,198,209" IsReadOnly="True"/>
+        <Button x:Name="AddButton" Content="Добавить" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Добавить_Click" RenderTransformOrigin="0.282,0.513" Width="268" Margin="95,364,0,0"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Margin="286,328,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="77"/>
+        <TextBox x:Name="txtService" HorizontalAlignment="Left" Margin="95,328,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167"/>
+        <TextBox x:Name="txtRedPrice" HorizontalAlignment="Left" Margin="595,328,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="113"/>
+        <TextBox x:Name="TextDel" HorizontalAlignment="Left" Margin="513,268,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="57" TextChanged="TextDel_TextChanged" RenderTransformOrigin="-0.649,0.837"/>
+        <TextBox x:Name="txtRedName" HorizontalAlignment="Left" Margin="436,328,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136"/>
+        <Button x:Name="DeleteButton" Content="Удалить запись" HorizontalAlignment="Left" Margin="618,266,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Label Content="Код записи" HorizontalAlignment="Left" Margin="431,263,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.316,0.027" FontFamily="Dubai Medium" Foreground="White"/>
+        <Label Content="Изменение названия" HorizontalAlignment="Left" Margin="431,298,0,0" VerticalAlignment="Top" FontFamily="Dubai Medium" Foreground="White"/>
+        <Label Content="Изменение цены" HorizontalAlignment="Left" Margin="595,298,0,0" VerticalAlignment="Top" FontFamily="Dubai Medium" Background="Transparent" Foreground="White"/>
+        <Button Content="Изменить" HorizontalAlignment="Left" Margin="436,364,0,0" VerticalAlignment="Top" Click="Button_Click_1" Width="272"/>
+        <Label Content="Стоимость услуги&#xA;с" HorizontalAlignment="Left" Margin="254,298,0,0" VerticalAlignment="Top" FontFamily="Dubai Medium" Foreground="White" Height="28" Width="109"/>
+        <Label Content="Имя услуги&#xA;" HorizontalAlignment="Left" Margin="95,300,0,0" VerticalAlignment="Top" FontFamily="Dubai Medium" Foreground="White" Width="120" Height="24"/>
+        <Border BorderBrush="Black" BorderThickness="1" Background="Gray" Margin="0,403,0,-33"/>
+
+        <Label Content="v 0.3.1" HorizontalAlignment="Left" Margin="0,403,0,0" VerticalAlignment="Top" Height="34" RenderTransformOrigin="0.596,-0.358"/>
+        <Button Content="Выйти" Margin="10,359,734,45" Background="#FFFF5050" Click="Button_Click_2"/>
+        <Image HorizontalAlignment="Left" Height="170" Margin="624,-37,0,0" VerticalAlignment="Top" Width="166" Source="/Source/ЛБ_512.png" Cursor="Hand" MouseDown="Image_MouseDown"/>
+
+
+
+    </Grid>
+</Window>

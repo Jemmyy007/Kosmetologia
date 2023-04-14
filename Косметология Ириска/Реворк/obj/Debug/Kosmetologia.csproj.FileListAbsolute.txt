@@ -1,0 +1,305 @@
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\bin\Debug\КосметологияБД2.accdb
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\bin\Debug\Косметология.exe.config
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\bin\Debug\Косметология.exe
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\bin\Debug\Косметология.pdb
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Kosmetologia.csproj.AssemblyReference.cache
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Kosmetologia.csproj.SuggestedBindingRedirects.cache
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\MainWindow.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Ваучер.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Главное меню (Менеджер).g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Главное_меню_(Админ).g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Логины.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Отчет.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Оформление_заявки.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Регистрация.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Редактирование клиентов.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Редактировать_заказ.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Специалисты.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Цены.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\App.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология_Content.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология_MarkupCompile.cache
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология_MarkupCompile.lref
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\MainWindow.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Ваучер.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Главное меню (Менеджер).baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Главное_меню_(Админ).baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Логины.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Отчет.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Оформление_заявки.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Регистрация.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Редактирование клиентов.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Редактировать_заказ.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Специалисты.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Цены.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология.g.resources
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология.Properties.Resources.resources
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Kosmetologia.csproj.GenerateResource.cache
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Kosmetologia.csproj.CoreCompileInputs.cache
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология.exe
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология.pdb
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\bin\Debug\КосметологияБД2.accdb
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\bin\Debug\Косметология.exe.config
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\bin\Debug\Косметология.exe
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\bin\Debug\Косметология.pdb
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Kosmetologia.csproj.AssemblyReference.cache
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Kosmetologia.csproj.SuggestedBindingRedirects.cache
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\MainWindow.g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Ваучер.g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Главное меню (Менеджер).g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Главное_меню_(Админ).g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Логины.g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Отчет.g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Оформление_заявки.g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Регистрация.g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Редактирование клиентов.g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Редактировать_заказ.g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Специалисты.g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Цены.g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\App.g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология_Content.g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология_MarkupCompile.cache
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология_MarkupCompile.lref
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\MainWindow.baml
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Ваучер.baml
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Главное меню (Менеджер).baml
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Главное_меню_(Админ).baml
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Логины.baml
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Отчет.baml
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Оформление_заявки.baml
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Регистрация.baml
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Редактирование клиентов.baml
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Редактировать_заказ.baml
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Специалисты.baml
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Цены.baml
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология.g.resources
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология.Properties.Resources.resources
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Kosmetologia.csproj.GenerateResource.cache
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Kosmetologia.csproj.CoreCompileInputs.cache
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология.exe
+F:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология.pdb
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\bin\Debug\КосметологияБД2.accdb
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\bin\Debug\Косметология.exe.config
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\bin\Debug\Косметология.exe
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\bin\Debug\Косметология.pdb
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Kosmetologia.csproj.AssemblyReference.cache
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\MainWindow.g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Ваучер.g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Главное меню (Менеджер).g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Главное_меню_(Админ).g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Логины.g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Отчет.g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Оформление_заявки.g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Регистрация.g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Редактирование клиентов.g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Редактировать_заказ.g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Специалисты.g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Цены.g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\App.g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология_Content.g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология_MarkupCompile.cache
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология_MarkupCompile.lref
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\MainWindow.baml
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Ваучер.baml
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Главное меню (Менеджер).baml
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Главное_меню_(Админ).baml
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Логины.baml
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Отчет.baml
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Оформление_заявки.baml
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Регистрация.baml
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Редактирование клиентов.baml
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Редактировать_заказ.baml
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Специалисты.baml
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Цены.baml
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология.g.resources
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология.Properties.Resources.resources
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Kosmetologia.csproj.GenerateResource.cache
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Kosmetologia.csproj.CoreCompileInputs.cache
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология.exe
+D:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\Косметология.pdb
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3\Реворк\obj\Debug\App.baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\bin\Debug\КосметологияБД2.mdf
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\bin\Debug\КосметологияБД2_log.ldf
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\bin\Debug\Косметология.exe.config
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\bin\Debug\Косметология.exe
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\bin\Debug\Косметология.pdb
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Kosmetologia.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Kosmetologia.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Ваучер.g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Главное меню (Менеджер).g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Главное_меню_(Админ).g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Логины.g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Отчет.g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Оформление_заявки.g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Регистрация.g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Редактирование клиентов.g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Редактировать_заказ.g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Специалисты.g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Цены.g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\App.g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Косметология_Content.g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Косметология_MarkupCompile.cache
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Косметология_MarkupCompile.lref
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\App.baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Ваучер.baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Главное меню (Менеджер).baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Главное_меню_(Админ).baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Логины.baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Отчет.baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Оформление_заявки.baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Регистрация.baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Редактирование клиентов.baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Редактировать_заказ.baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Специалисты.baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Цены.baml
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Косметология.g.resources
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Косметология.Properties.Resources.resources
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Kosmetologia.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Kosmetologia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Косметология.exe
+C:\Users\user\Desktop\ЙЦУ\РЕВОРК3 (БЕЗ ИСТОЧНИКА)\Реворк\obj\Debug\Косметология.pdb
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\Косметология.exe.config
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\Косметология.exe
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\Косметология.pdb
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Kosmetologia.csproj.AssemblyReference.cache
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Kosmetologia.csproj.SuggestedBindingRedirects.cache
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\MainWindow.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Ваучер.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Главное меню (Менеджер).g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Главное_меню_(Админ).g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Логины.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Отчет.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Оформление_заявки.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Регистрация.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Редактирование клиентов.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Редактировать_заказ.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Специалисты.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Цены.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\App.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология_Content.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология_MarkupCompile.cache
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология_MarkupCompile.lref
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\App.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\MainWindow.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Ваучер.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Главное меню (Менеджер).baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Главное_меню_(Админ).baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Логины.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Отчет.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Оформление_заявки.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Регистрация.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Редактирование клиентов.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Редактировать_заказ.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Специалисты.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Цены.baml
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология.g.resources
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология.Properties.Resources.resources
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Kosmetologia.csproj.GenerateResource.cache
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Kosmetologia.csproj.CoreCompileInputs.cache
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология.exe
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология.pdb
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\КосметологияБД2DataSet.Designer.cs
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\КосметологияБД2DataSet.xsc
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\КосметологияБД2DataSet.xsd
+E:\C#\ИС Косметологии\РЕВОРК_2.2\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\КосметологияБД2DataSet.xss
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\КосметологияБД2DataSet.Designer.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\КосметологияБД2DataSet.xsc
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\КосметологияБД2DataSet.xsd
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\КосметологияБД2DataSet.xss
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\Косметология.exe.config
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\Косметология.exe
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\bin\Debug\Косметология.pdb
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Kosmetologia.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Kosmetologia.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Ваучер.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Главное меню (Менеджер).g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Главное_меню_(Админ).g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Логины.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Отчет.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Оформление_заявки.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Регистрация.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Редактирование клиентов.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Редактировать_заказ.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Специалисты.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Цены.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\App.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология_Content.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология_MarkupCompile.cache
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология_MarkupCompile.lref
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\App.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Ваучер.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Главное меню (Менеджер).baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Главное_меню_(Админ).baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Логины.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Отчет.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Оформление_заявки.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Регистрация.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Редактирование клиентов.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Редактировать_заказ.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Специалисты.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Цены.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология.g.resources
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология.Properties.Resources.resources
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Kosmetologia.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Kosmetologia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология.exe
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Косметология.pdb
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Отчет_Ваучер.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)\Реворк\obj\Debug\Отчет_Ваучер.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\bin\Debug\КосметологияБД2DataSet.Designer.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\bin\Debug\КосметологияБД2DataSet.xsc
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\bin\Debug\КосметологияБД2DataSet.xsd
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\bin\Debug\КосметологияБД2DataSet.xss
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\bin\Debug\Косметология.exe.config
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\bin\Debug\Косметология.exe
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\bin\Debug\Косметология.pdb
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Kosmetologia.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Kosmetologia.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Ваучер.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Главное меню (Менеджер).g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Главное_меню_(Админ).g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Логины.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Отчет.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Отчет_Ваучер.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Оформление_заявки.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Регистрация.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Редактирование клиентов.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Редактировать_заказ.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Специалисты.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Цены.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\App.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Косметология_Content.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Косметология_MarkupCompile.cache
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Косметология_MarkupCompile.lref
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\App.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Ваучер.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Главное меню (Менеджер).baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Главное_меню_(Админ).baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Логины.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Отчет.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Отчет_Ваучер.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Оформление_заявки.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Регистрация.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Редактирование клиентов.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Редактировать_заказ.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Специалисты.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Цены.baml
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Косметология.g.resources
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Косметология.Properties.Resources.resources
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Kosmetologia.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Kosmetologia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Косметология.exe
+C:\Users\user\Desktop\ЙЦУ\Крашается хамл\РЕВОРК3 (РАБОЧАЯ SQL)2\Реворк\obj\Debug\Косметология.pdb
