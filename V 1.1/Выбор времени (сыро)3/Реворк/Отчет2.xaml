@@ -1,0 +1,44 @@
+﻿<Window x:Class="Косметология.Отчет2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Косметология"
+        mc:Ignorable="d"
+        Title="Отчет" Height="833" Width="775" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid x:Name="Print">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF8D9BC7" Offset="0"/>
+                <GradientStop Color="#FF303D69" Offset="0.336"/>
+
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid x:Name="logoContainer1" Background="#FFFDFDFD">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label x:Name="lN" Content="Заказ №   " HorizontalAlignment="Left" Margin="40,82,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="48" Foreground="#FF252323" Width="862" Grid.Row="1" Height="85"/>
+            <Label x:Name="lClient" Content="Клиент: " HorizontalAlignment="Left" Margin="40,211,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="28" Foreground="#FF252323" Width="735" Grid.Row="1" Height="61"/>
+            <Label x:Name="lTel" Content="Телефон клиента: " HorizontalAlignment="Left" Margin="40,277,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="28" Foreground="#FF252323" Width="835" Grid.Row="1" Height="61"/>
+            <Label Content="Косметология &quot;Ириска&quot;" HorizontalAlignment="Left" Margin="43,16,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="30" Foreground="#FF252323" Width="357" Grid.Row="1" Height="61"/>
+            <Label x:Name="lDate" Content="Дата: " HorizontalAlignment="Left" Margin="40,0,0,52" VerticalAlignment="Bottom" FontFamily="Times New Roman" FontSize="30" Foreground="#FF252323" Width="360" Grid.Row="1" Height="61"/>
+            <Label x:Name="lMail" Content="Mail клиента: " HorizontalAlignment="Left" Margin="40,343,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="28" Foreground="#FF252323" Width="835" Grid.Row="1" Height="61"/>
+            <Label x:Name="lUsluga" Content="Выбранная услуга: " HorizontalAlignment="Left" Margin="40,409,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="28" Foreground="#FF252323" Width="835" Grid.Row="1" Height="61"/>
+            <Label x:Name="lSpec" Content="Специалист: " HorizontalAlignment="Left" Margin="40,475,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="28" Foreground="#FF252323" Width="835" Grid.Row="1" Height="61"/>
+            <Label x:Name="lPrice" Content="Стоимость: " HorizontalAlignment="Left" Margin="40,541,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="28" Foreground="#FF252323" Width="835" Grid.Row="1" Height="61"/>
+            <Label x:Name="lDATA" Content="Дата выполнения заказа: " HorizontalAlignment="Left" Margin="40,607,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="28" Foreground="#FF252323" Width="835" Grid.Row="1" Height="61"/>
+
+        </Grid>
+        <Grid x:Name="up" Grid.Row="0" Grid.RowSpan="1" Margin="2,0,0,723">
+            <Button Content="Печать" HorizontalAlignment="Left" Margin="607,19,0,0" VerticalAlignment="Top" Click="Button_Click" Height="46" Width="135"/>
+        </Grid>
+
+        <Grid x:Name="logoContainer" Margin="2,68,-2,9"/>
+    </Grid>
+</Window>
