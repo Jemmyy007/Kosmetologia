@@ -1,0 +1,61 @@
+﻿<Window x:Class="Косметология.Регистрация"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Косметология"
+        mc:Ignorable="d"
+        Title="Регистрация клиента" Height="406" Width="805" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Margin="0,0,0,-6">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF8D9BC7" Offset="0"/>
+                <GradientStop Color="#FF303D69" Offset="0.336"/>
+
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="27"/>
+            <RowDefinition Height="314"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Image Source="Source/desigh2.png" Margin="-38,-7,-91,-60" OpacityMask="Black" Grid.RowSpan="3"/>
+        <Image HorizontalAlignment="Left" Height="177" Margin="538,-41,0,0" VerticalAlignment="Top" Width="184" Source="/Source/ЛБ_512.png" Grid.RowSpan="2" MouseDown="Image_MouseDown" Cursor="Hand"/>
+        <Button Content="Отмена" HorizontalAlignment="Left" Margin="21,258,0,0" Grid.Row="1" VerticalAlignment="Top" Height="37" Width="77" Background="#FFFF5050" Click="Button_Click_4"/>
+        <TextBox x:Name="txtFio" HorizontalAlignment="Left" Margin="149,49,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" TextChanged="TextBox_TextChanged" Height="26" FontFamily="Dubai Medium"/>
+        <TextBox x:Name="txtTel" HorizontalAlignment="Left" Margin="149,87,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" TextChanged="TextBox_TextChanged" Height="28" FontFamily="Dubai Medium"/>
+        <TextBox x:Name="txtMail" HorizontalAlignment="Left" Margin="149,126,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" TextChanged="TextBox_TextChanged" Height="26" RenderTransformOrigin="0.555,1.461" IsManipulationEnabled="True" Tag="" FontFamily="Dubai Medium"/>
+        <TextBox x:Name="txtNomer" HorizontalAlignment="Left" Margin="527,88,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" TextChanged="TextBox_TextChanged" Height="28" FontFamily="Dubai Medium"/>
+        <TextBox x:Name="txtKodP" HorizontalAlignment="Left" Margin="527,203,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" TextChanged="TextBox_TextChanged" Height="28" FontFamily="Dubai Medium"/>
+        <TextBox x:Name="txtKemVidan" HorizontalAlignment="Left" Margin="527,127,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" TextChanged="TextBox_TextChanged" Height="26" FontFamily="Dubai Medium"/>
+        <Label Content="ФИО:" HorizontalAlignment="Left" Margin="96,45,0,0" Grid.Row="1" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="14" Foreground="White" Height="34" Width="44"/>
+        <Label Content="Телефон:" HorizontalAlignment="Left" Margin="75,84,0,0" Grid.Row="1" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="14" Foreground="White" Height="34" Width="69"/>
+        <Label Content="Mail:" HorizontalAlignment="Left" Margin="95,122,0,0" Grid.Row="1" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="14" Foreground="White" Height="34" Width="38"/>
+        <Label Content="Дата рождения:" HorizontalAlignment="Left" Margin="21,163,0,0" Grid.Row="1" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="14" Foreground="White" Height="32" Width="129"/>
+        <Label Content="Серия:" HorizontalAlignment="Left" Margin="457,53,0,0" Grid.Row="1" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="14" Foreground="White" Height="34" Width="53"/>
+        <Label Content="Номер:" HorizontalAlignment="Left" Margin="453,92,0,0" Grid.Row="1" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="14" Foreground="White" RenderTransformOrigin="1.094,0.477" Height="34" Width="58"/>
+        <Label Content="Кем выдан:" HorizontalAlignment="Left" Margin="427,123,0,0" Grid.Row="1" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="14" Foreground="White" RenderTransformOrigin="1.094,0.477" Height="34" Width="84"/>
+        <Label Content="Когда выдан:" HorizontalAlignment="Left" Margin="416,168,0,0" Grid.Row="1" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="14" Foreground="White" RenderTransformOrigin="1.094,0.477" Height="34" Width="95"/>
+        <Label Content="Код подразделения:" HorizontalAlignment="Left" Margin="369,200,0,0" Grid.Row="1" VerticalAlignment="Top" FontFamily="Dubai Medium" FontSize="14" Foreground="White" RenderTransformOrigin="1.094,0.477" Height="34" Width="142"/>
+        <Button Content="Сохранить" HorizontalAlignment="Left" Margin="650,258,0,0" Grid.Row="1" VerticalAlignment="Top" Background="#FF35B113" Height="37" Width="77" Click="Button_Click"/>
+
+        <TextBox x:Name="txtKogdaVidan" HorizontalAlignment="Left" Margin="527,166,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" TextChanged="TextBox_TextChanged" Height="26" FontFamily="Dubai Medium"/>
+        <Border BorderBrush="Black" BorderThickness="1" Margin="0,6,0,-26" Background="Gray" Grid.Row="2">
+            <Label Content="v 1.1" HorizontalAlignment="Left" Margin="-1,-4,0,0" VerticalAlignment="Top" Height="23"/>
+        </Border>
+        <TextBox x:Name="txtSeria" HorizontalAlignment="Left" Margin="527,50,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" TextChanged="TextBox_TextChanged" Height="26" FontFamily="Dubai Medium"/>
+        <DatePicker x:Name="txtBirth" HorizontalAlignment="Left" Margin="146,163,0,0" VerticalAlignment="Top" Width="234" Height="39" FontFamily="Dubai Medium" FirstDayOfWeek="Monday" SelectedDateFormat="Short" IsTodayHighlighted="True" Grid.Row="1">
+            <DatePicker.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,0" StartPoint="0.5,1">
+                    <GradientStop Color="#FFA3AEB9"/>
+                    <GradientStop Color="#FF8399A9" Offset="0"/>
+                    <GradientStop Color="#FF718597" Offset="0"/>
+                    <GradientStop Color="#00FFFF00" Offset="0"/>
+                </LinearGradientBrush>
+            </DatePicker.BorderBrush>
+        </DatePicker>
+    </Grid>
+</Window>

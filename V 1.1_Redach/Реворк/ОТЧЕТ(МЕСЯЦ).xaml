@@ -1,0 +1,39 @@
+﻿<Window x:Class="Косметология.ОТЧЕТ_МЕСЯЦ_"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Косметология"
+        mc:Ignorable="d"
+        Title="Отчет за месяц" Height="778" Width="21cm">
+    <Grid x:Name="Print" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid x:Name="logoContainer1" Background="White" Margin="0,0,-2,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label x:Name="lN" Content="Выручка:  " HorizontalAlignment="Left" Margin="43,188,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="48" Width="862" Grid.Row="1" Height="85"/>
+            <Label Content="Косметология &quot;Ириска&quot;" HorizontalAlignment="Left" Margin="43,22,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="30" Width="357" Grid.Row="1" Height="61"/>
+            <Label x:Name="lDate" Content="Дата отчета:    " HorizontalAlignment="Left" Margin="474,0,0,37" FontFamily="Times New Roman" FontSize="18" Width="233" Grid.Row="1" Height="38" VerticalAlignment="Bottom"/>
+            <Label x:Name="lN_Copy" Content="Отчет за " HorizontalAlignment="Left" Margin="40,67,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="36" Width="862" Grid.Row="1" Height="59"/>
+            <Label Content="_____________________" HorizontalAlignment="Left" Margin="574,0,0,42" Grid.RowSpan="2" FontFamily="Times New Roman" FontSize="30" Height="44" VerticalAlignment="Bottom"/>
+            <Label x:Name="lDate_Copy" Content="ФИО: " HorizontalAlignment="Left" Margin="28,0,0,103" FontFamily="Times New Roman" FontSize="18" Width="80" Grid.Row="1" Height="33" VerticalAlignment="Bottom"/>
+            <Label Content="______________________________________________" HorizontalAlignment="Left" Margin="110,0,0,103" Grid.RowSpan="2" FontFamily="Times New Roman" FontSize="30" Height="44" VerticalAlignment="Bottom"/>
+            <Label x:Name="lDate_Copy1" Content="Подпись: " HorizontalAlignment="Left" Margin="25,0,0,42" FontFamily="Times New Roman" FontSize="18" Width="85" Grid.Row="1" Height="33" VerticalAlignment="Bottom"/>
+            <Label Content="____________________" HorizontalAlignment="Left" Margin="110,0,0,42" Grid.RowSpan="2" FontFamily="Times New Roman" FontSize="30" Height="44" VerticalAlignment="Bottom"/>
+            <TextBlock Margin="49,278,0,205" Grid.RowSpan="2" TextWrapping="Wrap" FontSize="22" FontFamily="Times New Roman" HorizontalAlignment="Left" Width="686"><Run Text="С другой стороны постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки направлений прогрессивного развития. Идейные соображения высшего порядка, а также сложившаяся структура организации позволяет оценить значение позиций, занимаемых участниками в отношении поставленных задач. Товарищи! укрепление и развитие структуры обеспечивает широкому кругу (специалистов) участие в формировании форм развития. "/><LineBreak/><Run Text="Значимость этих проблем настолько очевидна, что сложившаяся структура организации позволяет выполнять важные задания по разработке форм развития. Не следует, однако забывать, что начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании соответствующий условий активизации. Равным образом дальнейшее развитие различных форм деятельности требуют от нас анализа существенных финансовых и административных условий. Таким образом начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании систем массового участия. Идейные соображения высшего порядка, а также постоянное информационно-пропагандистское обеспечение нашей деятельности способствует подготовки и реализации соответствующий условий активизации. Не следует, однако забывать, что реализация намеченных плановых заданий в значительной степени обуславливает создание дальнейших направлений развития."/></TextBlock>
+        </Grid>
+        <Grid x:Name="up" Grid.Row="0" Grid.RowSpan="1" Margin="2,0,0,308">
+            <Button Content="Печать" HorizontalAlignment="Left" Margin="607,28,0,0" VerticalAlignment="Top" Click="Button_Click" Height="46" Width="134"/>
+        </Grid>
+
+        <Grid x:Name="logoContainer" Margin="2,68,-2,9"/>
+    </Grid>
+</Window>
