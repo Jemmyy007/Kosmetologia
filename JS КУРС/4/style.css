@@ -1,0 +1,22 @@
+body {
+    background-color: #F1F1F1;
+}
+
+.card {
+    border: 1px solid #898989;
+}
+
+.first {
+    display: flex;
+    justify-content: center;
+    width: 100%;    
+}
+
+p {
+    width: auto;
+    border: 1px solid #898989;
+    background-color: white;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px 10px 35px; /* сверху 10px | горизонтально - 10px | снизу - 35px */    
+}

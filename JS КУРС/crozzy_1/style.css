@@ -1,0 +1,263 @@
+@font-face {
+    font-family: "Anonymous Pro";
+    src: url(fonts/AnonymousPro-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+  font-family: "Anonymous Pro";
+  src: url(fonts/AnonymousPro-Regular.ttf);
+}
+body{
+  background-color: #F1F1F1;
+  margin: 0;
+}
+
+
+.panel{
+  height: 110px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+
+.head_text{
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.elem-position{
+  width: 1161px;
+  display: flex;
+  background-color:white;
+  justify-content: space-between;
+}
+
+.links1{
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  gap: 24px;
+}
+
+.links1 ol{
+  display: inline-block;
+}
+.links1 a{
+  text-decoration: none;
+  color: #000;
+  font-family: Anonymous Pro;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+h1 {
+    font-family: "Anonymous Pro", sans-serif;
+    font-size: 56px;
+}
+
+h2 {
+  font-family: "Anonymous Pro", sans-serif;
+	font-size: 48px;
+}
+
+.colection_position{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.collection{
+  display: flex;
+  width: 1161px;
+  justify-content: start;
+}
+
+.collection p{
+  color: #121723;
+  font-family: Anonymous Pro;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  width: 767px;
+  margin: 15px 0 15px 0;
+}
+
+.main_container{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  position: relative;
+  gap: 20px;
+  justify-content: center;
+}
+
+.container {
+	display: inline-block;
+	margin: 15px 0 15px 0;
+  background: white;
+  width: 371px;
+  border-radius: 12px;
+  transition: 0.3s ease-in-out;
+}
+
+.container h3{
+  width: 323px;
+  color: #121723;
+  font-family: Anonymous Pro;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.container p {
+  align-self: stretch;
+  color: var(--black, #121723);
+  font-family: Anonymous Pro;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.container:hover{
+  
+  cursor: pointer;
+  transform: translateY(-10px);
+}
+
+.cros_img{
+ width: 100%;
+}
+
+/* #cros1{
+  background-image: url(/img/image\ 3.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+} 
+#cros2{
+  background-image: url(https://sandbox-teens.practicum-team.ru/tasks/03-more-html-and-css-sprint/01-flex-sandboxes/07-training/sandbox-01/pre/images/2.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+#cros3{
+  background-image: url(https://sandbox-teens.practicum-team.ru/tasks/03-more-html-and-css-sprint/01-flex-sandboxes/07-training/sandbox-01/pre/images/3.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+#cros4{
+  background-image: url(https://sandbox-teens.practicum-team.ru/tasks/03-more-html-and-css-sprint/01-flex-sandboxes/07-training/sandbox-01/pre/images/1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+#cros5{
+  background-image: url(https://sandbox-teens.practicum-team.ru/tasks/03-more-html-and-css-sprint/01-flex-sandboxes/07-training/sandbox-01/pre/images/2.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+#cros6{
+  background-image: url(https://sandbox-teens.practicum-team.ru/tasks/03-more-html-and-css-sprint/01-flex-sandboxes/07-training/sandbox-01/pre/images/3.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+}
+#cros7{
+  background-image: url(https://sandbox-teens.practicum-team.ru/tasks/03-more-html-and-css-sprint/01-flex-sandboxes/07-training/sandbox-01/pre/images/1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+}
+#cros8{
+  background-image: url(https://sandbox-teens.practicum-team.ru/tasks/03-more-html-and-css-sprint/01-flex-sandboxes/07-training/sandbox-01/pre/images/2.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+}
+#cros9{
+  background-image: url(https://sandbox-teens.practicum-team.ru/tasks/03-more-html-and-css-sprint/01-flex-sandboxes/07-training/sandbox-01/pre/images/3.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}*/
+
+.card_text{
+  padding: 20px;
+  text-align: start;
+}
+
+h3 {
+  font-family: "Anonymous Pro", sans-serif;
+	font-size: 26px;
+}
+
+p {
+  font-family: "Anonymous Pro", sans-serif;
+  font-size: 14px;
+}
+
+img {
+	width: 370px;
+}
+
+.main_footer{
+  display: flex;
+  width: 100%;
+  height: 142px;
+  background-color: #121723;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.foot{
+width: 1161px;
+height: 100px;
+display: flex;
+justify-content: space-between;
+}
+
+.logo{
+display: flex;
+align-items: center;  /*Задал лого вертикально по центру на равне с сылками, но само лого кривое*/
+}
+
+.links2{
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  gap: 24px;
+}
+.links2 ol{
+  display: inline-block;
+}
+.links2 a{
+  text-decoration: none;
+  color: white;
+  font-family: Anonymous Pro;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.copyrights{
+  width: 1161px;
+  border-top: 3px solid rgba(230, 232, 236, 0.40);
+  color: rgba(230, 232, 236, 0.40);
+  display: flex;
+  justify-content: center;
+}
+

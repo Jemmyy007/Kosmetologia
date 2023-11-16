@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://kartinkin.net/pics/uploads/posts/2022-09/1662935133_17-kartinkin-net-p-sidyachaya-koshka-pinterest-20.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main{
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    height: 400px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mess1, .mess2{
+    height:200px;
+    width: 100%;
+    align-items: center;
+    align-content: center;
+}
+
+p{
+    font-size: 80px;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mess1{
+    background-color:palevioletred;
+    border-radius: 5ch 0 0 0;
+}
+
+.mess2{
+    background-color: blue;
+    border-radius:  0 0 5ch 0 ;
+}
