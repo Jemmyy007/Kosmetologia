@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <script>
+            var anyNumber = [23, 24, 55, 11, 24315, 1245, 123, 99, 47, 1325, 0 ,151345];
+            var i = 0;
+            var j = 0;
+            var max = 0;
+            while(i<anyNumber.length){
+            document.write("Индексу " + i + " соответствует число " + anyNumber[i] + "<br/>");
+            i++;
+            }
+
+            
+            while(j<anyNumber.length){
+                if (anyNumber[j] > max){
+                    max = anyNumber[j];
+                }
+                j++
+            }
+            document.write("Максимальное число массива: "+max+ "<br>")
+
+
+        </script>
+    </body>
+</html>
+    

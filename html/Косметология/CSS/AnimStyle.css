@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    width: 0;
+}
+
+body{
+    background-color: grey;
+}
+
+:root {
+    --containerWidth: 500px;
+    
+  }
+  
+
+.container{
+    border: 3px solid black;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 50%; /* Перемещаем .logo влево на половину его ширины */
+    transform: translateX(-50%); /* Центрируем .logo по горизонтали */
+    margin-top: 5%;
+    opacity: 0;
+    /* border: 3px solid black; */
+}
+
+
+
+/*.container:hover .item1 {
+   
+    animation-name: move1;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(0.65, 0.05, 0.36, 1);;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+
+.container:hover .item2 {
+    
+    animation-name: move2;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(0.65, 0.05, 0.36, 1);;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+
+.container:hover .item3 {
+  
+    animation-name: move3;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(0.65, 0.05, 0.36, 1);;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+
+.container:hover .item4 {
+    
+    animation-name: move4;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(0.65, 0.05, 0.36, 1);;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+*/
+
+.item1, .item2, .item3, .item4{
+    border-radius: 50%;
+}
+
+
+
+.item1{
+    background-color: rgb(255, 255, 255);
+    width: 40%;
+    height: 40%;
+    animation: move1 3s cubic-bezier(0.65, 0.05, 0.36, 1) infinite;
+}
+
+.item2{
+    background-color: rgb(74, 74, 74);
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    top: calc(60%);
+    left: calc(60%);
+    animation: move2 3s cubic-bezier(0.65, 0.05, 0.36, 1) infinite;
+}
+    
+
+
+.item3{
+    background-color: rgb(169, 169, 169);
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    top: 0;
+    left: calc(60%);
+    animation: move3 3s cubic-bezier(0.65, 0.05, 0.36, 1) infinite;
+}
+
+.item4{
+    background-color: rgb(0, 0, 0);
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    top: calc(60%);
+    animation: move4 3s cubic-bezier(0.65, 0.05, 0.36, 1) infinite;
+}
+
+@keyframes move1{
+    0%{
+        transform: translateX(0%) translateY(0%);
+    }
+    25%{
+        transform: translateX(150%) translateY(0%);
+    }
+    50%{
+        transform: translateX(150%) translateY(150%);
+    }
+    75%{
+        transform: translateX(0%) translateY(150%);
+    }
+    100%{
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move2{
+    0%{
+        transform: translateX(0%) translateY(0%);
+    }
+    25%{
+        transform: translateX(-150%) translateY(0%);
+    }
+    50%{
+        transform: translateX(-150%) translateY(-150%);
+    }
+    75%{
+        transform: translateX(0%) translateY(-150%);
+    }
+    100%{
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move3{
+    0%{
+        transform: translateX(0%) translateY(0%);
+    }
+    25%{
+        transform: translateX(0%) translateY(150%);
+    }
+    50%{
+        transform: translateX(-150%) translateY(150%);
+    }
+    75%{
+        transform: translateX(-150%) translateY(0);
+    }
+    100%{
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move4{
+    0%{
+        transform: translateX(0%) translateY(0%);
+    }
+    25%{
+        transform: translateX(0%) translateY(-150%);
+    }
+    50%{
+        transform: translateX(150%) translateY(-150%);
+    }
+    75%{
+        transform: translateX(150%) translateY(0);
+    }
+    100%{
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move1-return {
+    
+    100% {
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move2-return {
+    
+    100% {
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move3-return {
+    
+    100% {
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move4-return {
+    
+    100% {
+        transform: translateX(0%) translateY(0%);
+    }
+}

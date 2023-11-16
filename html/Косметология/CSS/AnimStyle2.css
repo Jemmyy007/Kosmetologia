@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    width: 0;
+}
+
+body{
+    background-color: grey;
+}
+
+.container{
+    border: 3px solid black;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 50%; /* Перемещаем .logo влево на половину его ширины */
+    transform: translateX(-50%); /* Центрируем .logo по горизонтали */
+    margin-top: 5%;
+    /* border: 3px solid black; */
+}
+
+.item1{
+    background-color: rgb(255, 255, 255);
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+    transition-timing-function:  ease-in-out;
+    transition-duration: 3s;
+    transform: translateX(0) translateY(0);
+}
+
+.container:hover .item1{
+    animation-name: move1;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(0.65, 0.05, 0.36, 1);;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+}
+
+@keyframes move1{
+    0%{
+
+    }
+    50%{
+        transform: translateX(75%) translateY(75%);
+    }
+    100%{
+        transform: translateX(150%) translateY(0%);
+    }
+}

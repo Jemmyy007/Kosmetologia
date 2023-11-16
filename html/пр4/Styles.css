@@ -1,0 +1,335 @@
+body, html {
+    height: 100%;
+    margin: 0;  
+    font: 400 15px/1.8 "Lato", sans-serif;
+    color: rgb(72, 75, 72);
+}
+
+.bgimg-1, .bgimg-2, .bgimg-3{
+    position: relative;
+    
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgimg-2{
+    display: flex;
+    align-items: center;
+}
+.caption{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;   
+}
+
+.advert {
+    height: 650px;
+    background-color: #ffffff;
+    width: 500px;
+    border-radius: 5%;
+    border: 3px solid black;
+    display: flex;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+}
+
+.bg-med1 {
+    background-image: url("med1.jpg");
+    height: 500px;
+    width: 460px;
+    border: 3px solid black;
+}
+.bg-med2 {
+    background-image: url("med2.jpg");
+    height: 500px;
+    width: 460px;
+    border: 3px solid black;
+}
+.bg-med3 {
+    background-image: url("med3.jpg");
+    height: 500px;
+    width: 460px;
+    border: 3px solid black;
+}
+
+.bg-med1, .bg-med2, .bg-med3{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    border-radius: 5%;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.bgimg-1 {
+    background-image: url("maxresdefault.jpg");
+    min-height: 100%;
+}
+.bgimg-2 {
+    background-image: url("maxresdefault2.jpg");
+    min-height: 800px;
+}
+.bgimg-3 {
+    background-image: url("screen-1.jpg");
+    min-height: 800px;
+}
+
+
+.caption span.border{
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size:  25px;
+    letter-spacing: 10px;
+}
+h3 {
+    letter-spacing:  5px;
+    text-transform: uppercase;
+    font: 20px "Lato", sans-serif;
+    color: #111;
+}
+
+
+
+@media only screen and (max-device-width:1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3{
+        background-attachment: scroll;
+    }
+}
+
+.advert:hover{
+    transform: translateY(-8px);
+    cursor: pointer;
+}
+
+.advert .label1, .label2, .label3{
+    position:absolute;
+    margin-top: 560px;
+    width: 500px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: #111;
+    
+}
+
+
+.container{
+    height: 50%;
+    width: 50%;
+    position: absolute;position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 5%;
+    z-index: 1000;
+    opacity: 0;
+
+}
+
+.container.show{
+    height: 50%;
+    width: 50%;
+    position: absolute;position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 5%;
+    z-index: 1000;
+    opacity: 1;
+
+}
+
+/*.container:hover .item1 {
+   
+    animation-name: move1;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(0.65, 0.05, 0.36, 1);;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+
+.container:hover .item2 {
+    
+    animation-name: move2;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(0.65, 0.05, 0.36, 1);;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+
+.container:hover .item3 {
+  
+    animation-name: move3;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(0.65, 0.05, 0.36, 1);;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+
+.container:hover .item4 {
+    
+    animation-name: move4;
+    animation-duration: 3s;
+    animation-timing-function: cubic-bezier(0.65, 0.05, 0.36, 1);;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+*/
+
+.item1, .item2, .item3, .item4{
+    border-radius: 50%;
+}
+
+
+
+.item1{
+    background-color: rgb(255, 255, 255);
+    width: 40%;
+    height: 40%;
+    animation: move1 3s cubic-bezier(0.65, 0.05, 0.36, 1) infinite;
+}
+
+.item2{
+    background-color: rgb(74, 74, 74);
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    top: calc(60%);
+    left: calc(60%);
+    animation: move2 3s cubic-bezier(0.65, 0.05, 0.36, 1) infinite;
+}
+    
+
+
+.item3{
+    background-color: rgb(169, 169, 169);
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    top: 0;
+    left: calc(60%);
+    animation: move3 3s cubic-bezier(0.65, 0.05, 0.36, 1) infinite;
+}
+
+.item4{
+    background-color: rgb(0, 0, 0);
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    top: calc(60%);
+    animation: move4 3s cubic-bezier(0.65, 0.05, 0.36, 1) infinite;
+}
+
+@keyframes move1{
+    0%{
+        transform: translateX(0%) translateY(0%);
+    }
+    25%{
+        transform: translateX(150%) translateY(0%);
+    }
+    50%{
+        transform: translateX(150%) translateY(150%);
+    }
+    75%{
+        transform: translateX(0%) translateY(150%);
+    }
+    100%{
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move2{
+    0%{
+        transform: translateX(0%) translateY(0%);
+    }
+    25%{
+        transform: translateX(-150%) translateY(0%);
+    }
+    50%{
+        transform: translateX(-150%) translateY(-150%);
+    }
+    75%{
+        transform: translateX(0%) translateY(-150%);
+    }
+    100%{
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move3{
+    0%{
+        transform: translateX(0%) translateY(0%);
+    }
+    25%{
+        transform: translateX(0%) translateY(150%);
+    }
+    50%{
+        transform: translateX(-150%) translateY(150%);
+    }
+    75%{
+        transform: translateX(-150%) translateY(0);
+    }
+    100%{
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move4{
+    0%{
+        transform: translateX(0%) translateY(0%);
+    }
+    25%{
+        transform: translateX(0%) translateY(-150%);
+    }
+    50%{
+        transform: translateX(150%) translateY(-150%);
+    }
+    75%{
+        transform: translateX(150%) translateY(0);
+    }
+    100%{
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move1-return {
+    
+    100% {
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move2-return {
+    
+    100% {
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move3-return {
+    
+    100% {
+        transform: translateX(0%) translateY(0%);
+    }
+}
+
+@keyframes move4-return {
+    
+    100% {
+        transform: translateX(0%) translateY(0%);
+    }
+}
+.buttonT{
+width: 100%;
+height: 200px;
+}

@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  #wrapper {
+    width: 1000px;
+    margin: 0 auto;
+  }
+  #header {
+    height: 100px;
+    background: #2277aa;
+  }
+  #left {
+    float: left;
+    width: 250px;
+    padding: 10px;
+    background: #ddd;
+  }
+  #bg-left {
+    background: url(https://klike.net/uploads/posts/2022-12/1670041239_3-27.jpg) left top repeat-y;
+  }
+  #right {
+    float: right;
+    width: 200px;
+    padding: 10px;
+    background: #ccc;
+  }
+  #bg-right {
+    background: url(https://klike.net/uploads/posts/2022-12/1670041239_3-27.jpg) right top repeat-y;
+  }
+  #content {
+    margin-left: 270px;
+    margin-right: 220px;
+    padding: 10px;
+    background: #eee;
+  }
+  #footer {
+    clear: both;
+    height: 50px;
+    background: #2277aa;
+  }
+  
+  
+  
+  

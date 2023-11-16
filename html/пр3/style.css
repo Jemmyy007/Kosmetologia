@@ -1,0 +1,126 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #f1f1f1;
+    padding: 20px;
+    font-family: Arial;
+}
+/* Center website */
+.main {
+    max-width: 1000px;
+    margin: auto;
+}
+h1 { 
+    font-size: 50px;
+    word-break: break-all;
+}
+.row {
+    margin: 8px -16px;
+}
+.row,
+.row .column {
+    padding: 8px;
+}
+.column {
+    float: left;
+    width: 25%;
+    
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.content {   
+    background-color: white;
+    padding: 10px;
+    height: 400px;
+}
+.content2 {   
+    background-color: white;
+    padding: 10px;
+    width: auto;
+    height: auto;
+}
+@media screen and (max-width: 900px) {
+    .column {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+.row img {
+    height: 120px;
+    width: 50px;
+}
+
+.slider {
+    position: relative;
+    width: 680px;
+    margin: 50px auto;
+    box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
+}
+
+
+.slider input[name="switch"] {
+    display: none;
+  }
+  .switch {
+    position: absolute;
+    left: 0;
+    bottom: -40px;
+    text-align: center;
+    width: 100%;
+  }
+  .switch label {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    cursor: pointer;
+    margin: 0, 3px;
+    box-shadow: 0, 0, 2px, 0 rgba(0, 0, 0, .8);
+    border-radius: 50%;
+    border: 3px solid #2f363c;
+    background-color: #738290;
+  }
+  #btn1:checked~.switch label[for="btn1"] {
+    background-color: white;
+  }
+  #btn2:checked~.switch label[for="btn2"] {
+    background-color: white;
+  }
+  #btn3:checked~.switch label[for="btn3"] {
+    background-color: white;
+  }
+  .slider-inner {
+    overflow: hidden;
+  }
+  .slides {
+    width: 300%;
+    transition: all 0.5s;
+  }
+  .slides img {
+    width: 680px;
+    height: 340px;
+    float: left;
+  }
+  #btn1:checked~slider-inner .slides {
+    transform: translate(0);
+  }
+  #btn2:checked~.slider-inner .slides {
+    transform: translate(-680px);
+  }
+  #btn3:checked~.slider-inner .slides {
+    transform: translate(-1360px);
+  }
+  
+  .button{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+  
